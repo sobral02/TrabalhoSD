@@ -34,5 +34,4 @@ Os programas devem ser executados da seguinte forma (dentro do diretório binary
 
 Correndo o comando "make clean" serão removidos os ficheiros (.o), o ficheiro libtable.a e ambos os executáveis.
 
-# TrabalhoSD
-# TrabalhoSD
+
